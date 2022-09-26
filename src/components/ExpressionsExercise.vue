@@ -9,14 +9,14 @@
             below:
           </p>
 
-          <p>{{}}</p>
+          <p>{{Math.sqrt(3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342)}}</p>
         </div>
         <div class="border p-1">
           <p>
             Use interpolation to get the customary Hello, World! to display on
             the screen. Don't forget your quotes
           </p>
-          <p>{{}}</p>
+          <p>{{"Hello, World!"}}</p>
         </div>
       </div>
     </div>
